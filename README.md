@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Pdf Extractor](https://github.com/aryan7002/pdfExtractor-Python)
 
-- 🌱 I’m currently learning **Django,**
+- 🌱 I’m currently learning **Django,ReactJS**
 
 - 🤝 I’m looking for help with [My Projects](https://github.com/aryan7002?tab=repositories)
 
