@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/Aryan7002" target="blank"><img src="https://img.shields.io/twitter/follow/aryan7002?logo=twitter&style=for-the-badge" alt="aryan7002" /></a> </p>
 
-- 🔭 I’m currently working on [Android Music_App](https://github.com/aryan7002/pdfExtractor-Python)
+- 🔭 I’m currently working on [Android Music_App](https://github.com/aryan7002/Music_App-Android)
 
 - 🌱 I’m currently learning **Django,ReactJS**
 
