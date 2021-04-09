@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [My Android App](https://github.com/aryan7002/Music_App-Android)
 
-- 👨‍💻 All of my projects are available at [https://github.com/aryan7002?tab=repositories](https://github.com/aryan7002?tab=repositories)
+- 👨‍💻 All of my projects  [click here](https://github.com/aryan7002?tab=repositories)
 
 - 💬 Ask me about **Python Packages**
 
