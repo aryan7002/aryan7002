@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aryan7002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aryan7002" height="30" width="40" /></a>
-<a href="https://fb.com/aryan.dangar.184" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aryan ahir" height="30" width="40" /></a>
+<a href="https://fb.com/aryan.dangar.184" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174848.svg?token=exp=1617979795~hmac=e771e623faeddb832c12258a85bed9ca" alt="aryan ahir" height="30" width="40" /></a>
 <a href="https://instagram.com/aryan.7002/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aryan.7002" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uctpxvbx03jh54xq3gyqscna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="CodeWithAryan" height="30" width="40" /></a>
 </p>
