@@ -23,7 +23,7 @@
 <a href="https://twitter.com/aryan7002" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409937.svg?token=exp=1617980240~hmac=e1e6708e0703a0419565af33e5e81aa2" alt="aryan7002" height="30" width="40" /></a>
 <a href="https://fb.com/aryan.dangar.184" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174848.svg?token=exp=1617979795~hmac=e771e623faeddb832c12258a85bed9ca" alt="aryan ahir" height="30" width="40" /></a>
 <a href="https://instagram.com/aryan.7002/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1617980135~hmac=049835fe0978e63c5d1b24321a1a7376" alt="aryan.7002" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uctpxvbx03jh54xq3gyqscna" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733590.svg?token=exp=1617980273~hmac=90ccf964fd07eed86a14eb4563336f46" alt="CodeWithAryan" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCTPXvBx03jH54Xq3gyqscNA" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733590.svg?token=exp=1617980273~hmac=90ccf964fd07eed86a14eb4563336f46" alt="CodeWithAryan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
