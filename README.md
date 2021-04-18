@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Dangar</h1>
-<h3 align="center">A passionate Python Devloper from India</h3>
+<h3 align="center">A passionate Devloper from India</h3>
 
 <p align="left"> <a href="https://twitter.com/Aryan7002" target="blank"><img src="https://img.shields.io/twitter/follow/aryan7002?logo=twitter&style=for-the-badge" alt="aryan7002" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://image.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_335657-312.jpg">
