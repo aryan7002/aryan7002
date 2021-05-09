@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Android Music App](https://github.com/aryan7002/Music_App-Android)
 
-- 🌱 I’m currently learning **Django,ReactJS**
+- 🌱 I’m currently learning **Django**
 
 - 🤝 I’m looking for help with [My Android App](https://github.com/aryan7002/Music_App-Android)
 
