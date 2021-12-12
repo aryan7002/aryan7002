@@ -23,7 +23,7 @@
 <a href="https://twitter.com/aryan7002" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/145/145812.png" alt="aryan7002" height="30" width="40" /></a>
 <a href="https://fb.com/aryan.dangar.184" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733547.png" alt="aryan ahir" height="30" width="40" /></a>
 <a href="https://instagram.com/aryan.7002/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" alt="aryan.7002" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UCTPXvBx03jH54Xq3gyqscNA" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="CodeWithAryan" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
